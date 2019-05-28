@@ -1,0 +1,196 @@
+Web Fonts:
+**********
+
+YPLocalWeb-Bold.ttf
+-------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Bold.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Bold.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Bold.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Bold.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Bold.svg
+
+
+YPLocalWeb-Book.ttf
+-------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Book.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Book.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Book.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Book.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Book.svg
+
+
+YPLocalWeb-BookItalic.ttf
+-------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-BookItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-BookItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-BookItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-BookItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-BookItalic.svg
+
+
+YPLocalWeb-Medium.ttf
+---------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Medium.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Medium.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Medium.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Medium.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWeb-Medium.svg
+
+
+YPLocalWebSmallText-Bold.ttf
+----------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Bold.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Bold.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Bold.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Bold.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Bold.svg
+
+
+YPLocalWebSmallText-Book.ttf
+----------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Book.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Book.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Book.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Book.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Book.svg
+
+
+YPLocalWebSmallText-BookItalic.ttf
+----------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-BookItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-BookItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-BookItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-BookItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-BookItalic.svg
+
+
+YPLocalWebSmallText-Medium.ttf
+------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Medium.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Medium.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Medium.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Medium.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/TD-TurnerDuckworth/YellowPages/MASTERING/fonts/processed_fonts/Web/YPLocalWebSmallText-Medium.svg
+
+
+
+TTFAutohint options:
+********************
+addTTFAutoHintInfo     = False
+dwClearType            = False
+fallbackScript         = False
+gdiClearType           = True
+grayScale              = False
+hintRangeMaximum       = 50
+hintRangeMinimum       = 8
+hintingLimit           = 200
+noHintingLimit         = False
+noXHeightIncreaseLimit = False
+overRideFontLicense    = False
+preHinting             = False
+symbolFont             = False
+xHeightIncreaseLimit   = 14

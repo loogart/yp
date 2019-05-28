@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>YP Interactive Jumbotron by Loogart</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css'>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg sticky-top navbar-light" style="background-color:#ffcd00;">
+        <div class="container">
+            <a class="navbar-brand" href="#"><img src="./img/logo-en.svg" style="display:block;width:80px;"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">People search <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Advertise with us</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Account
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Log in</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Sign up</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Français</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <div class="container text-center search-boxx">
+            <h2 class="mb-4 font-weight-bold tagline">Live. Shop. Taste. <span class="text-white handmade">Discover.</span></h2>
+            <form>
+                <div class="form-row d-flex justify-content-center">
+                    <div class="form-group col-md-5">
+                        <label for="inputEmail4" class="sr-only">Service</label>
+                        <input type="text" class="form-control form-control-lg shadow" id="inputEmail4" placeholder="What? (e.g. Plumber)">
+                    </div>
+                    <div class="form-group col-md-5">
+                        <label for="inputPassword4" class="sr-only">Location</label>
+                        <input type="text" class="form-control form-control-lg shadow" id="inputPassword4" placeholder="Where (e.g. Toronto)">
+                    </div>
+                    <div class="form-group col-md-1">
+                        <a href="#!" role="button" class="btn btn-dark btn-lg mb-2"><i class="fas fa-search"></i> Search</a>
+                    </div>
+                    <div class="form-group col-md-8">
+                        <ul class="list-inline d-none d-md-flex justify-content-around">
+                            <li class="list-inline-item"><a href="#!">Restaurants</a></li>
+                            <li class="list-inline-item"><a href="#!">Income Taxes</a></li>
+                            <li class="list-inline-item"><a href="#!">Medical Clinics</a></li>
+                            <li class="list-inline-item"><a href="#!">Car Repairs</a></li>
+                            <li class="list-inline-item"><a href="#!">Tires</a></li>
+                            <li class="list-inline-item"><a href="https://loogart.com">Designers</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+        <div class="sliding-background-2"></div>
+        <div class="sliding-background rellax" data-rellax-speed="3"></div>
+    </div>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js'></script>
+    <script src='./js/rellax.min.js'></script>
+    <script>
+        // Parallax
+        var rellax = new Rellax('.tagline', {
+            speed: 2
+        });
+
+        //randomize images
+        var images = ['../img/image1.svg', '../img/image2.svg'];
+        $('.sliding-background').css({
+            'background-image': 'url(images/' + images[Math.floor(Math.random() * images.length)] + ')',
+        });
+    </script>
+
+
+</body></html>

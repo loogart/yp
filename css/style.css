@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'YP Local Web_Bold';
+    src: url('fonts/YPLocalWeb-Bold.eot');
+    src: url('fonts/YPLocalWeb-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/YPLocalWeb-Bold.woff') format('woff'),
+        url('fonts/YPLocalWeb-Bold.woff2') format('woff2'),
+        url('fonts/YPLocalWeb-Bold.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YP Local Web_Book';
+    src: url('fonts/YPLocalWeb-Book.eot');
+    src: url('fonts/YPLocalWeb-Book.eot?#iefix') format('embedded-opentype'),
+        url('fonts/YPLocalWeb-Book.woff') format('woff'),
+        url('fonts/YPLocalWeb-Book.woff2') format('woff2'),
+        url('fonts/YPLocalWeb-Book.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YP Local Web_Italic';
+    src: url('fonts/YPLocalWeb-BookItalic.eot');
+    src: url('fonts/YPLocalWeb-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/YPLocalWeb-BookItalic.woff') format('woff'),
+        url('fonts/YPLocalWeb-BookItalic.woff2') format('woff2'),
+        url('fonts/YPLocalWeb-BookItalic.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YP Local Web_Medium';
+    src: url('fonts/YPLocalWeb-Medium.eot');
+    src: url('fonts/YPLocalWeb-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/YPLocalWeb-Medium.woff') format('woff'),
+        url('fonts/YPLocalWeb-Medium.woff2') format('woff2'),
+        url('fonts/YPLocalWeb-Medium.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YP Local Web Small Text_Bold';
+    src: url('fonts/YPLocalWebSmallText-Bold.eot');
+    src: url('fonts/YPLocalWebSmallText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/YPLocalWebSmallText-Bold.woff') format('woff'),
+        url('fonts/YPLocalWebSmallText-Bold.woff2') format('woff2'),
+        url('fonts/YPLocalWebSmallText-Bold.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YP Local Web Small Text_Book';
+    src: url('fonts/YPLocalWebSmallText-Book.eot');
+    src: url('fonts/YPLocalWebSmallText-Book.eot?#iefix') format('embedded-opentype'),
+        url('fonts/YPLocalWebSmallText-Book.woff') format('woff'),
+        url('fonts/YPLocalWebSmallText-Book.woff2') format('woff2'),
+        url('fonts/YPLocalWebSmallText-Book.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YP Local Web Small Text_Italic';
+    src: url('fonts/YPLocalWebSmallText-BookItalic.eot');
+    src: url('fonts/YPLocalWebSmallText-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/YPLocalWebSmallText-BookItalic.woff') format('woff'),
+        url('fonts/YPLocalWebSmallText-BookItalic.woff2') format('woff2'),
+        url('fonts/YPLocalWebSmallText-BookItalic.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YP Local Web Small Text_Medium';
+    src: url('fonts/YPLocalWebSmallText-Medium.eot');
+    src: url('fonts/YPLocalWebSmallText-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/YPLocalWebSmallText-Medium.woff') format('woff'),
+        url('fonts/YPLocalWebSmallText-Medium.woff2') format('woff2'),
+        url('fonts/YPLocalWebSmallText-Medium.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'YP Hand Web_Regular';
+    src: url('fonts/YPHandWeb-Regular.eot');
+    src: url('fonts/YPHandWeb-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/YPHandWeb-Regular.woff') format('woff'),
+        url('fonts/YPHandWeb-Regular.woff2') format('woff2'),
+        url('fonts/YPHandWeb-Regular.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    min-height: 1500px;
+    background-color:#e5e5e5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'YP Local Web_Medium';
+    color:#000;
+}
+
+p,
+a,
+li {
+    font-family: 'YP Local Web_Book';
+    letter-spacing: 0.5px;
+}
+
+.wrapper {
+    overflow: hidden;
+    background: #ffcd00;
+    padding-top: 120px;
+    padding-bottom: 100px;
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.search-boxx {
+    position: relative;
+    z-index: 3;
+    margin-bottom: -240px;
+}
+
+.handmade {
+    font-family: 'YP Hand Web_Regular';
+}
+
+.sliding-background {
+    position: relative;
+    z-index: 1;
+    background: url("../img/image1.svg") repeat-x;
+    height: 300px;
+    width: 5076px;
+    animation: slide 60s linear infinite;
+}
+
+@keyframes slide {
+    0% {
+        transform: translate3d(0, 0, 0);
+    }
+
+    100% {
+        transform: translate3d(-1692px, 0, 0);
+    }
+}
+
+@-webkit-keyframes slide {
+    0% {
+        transform: translate3d(0, 0, 0);
+    }
+
+    100% {
+        transform: translate3d(-1692px, 0, 0);
+    }
+}
+
+.search-boxx .btn {
+    background-color: #000;
+}
+.search-boxx .btn:hover {
+    background-color: #222;
+}
+
+.sliding-background-2 {
+    position: relative;
+    z-index: 0;
+    margin-bottom: -60px;
+    background: url("../img/clouds.svg") repeat-x;
+    height: 200px;
+    width: 5076px;
+    animation: slide 30s linear infinite;
+}
+
+@media (max-width: 767px) {
+    .wrapper {
+        padding-top: 30px;
+    }
+
+    .search-boxx {
+        margin-bottom: -269px;
+    }
+
+    .search-boxx .btn {
+        width: 100%;
+    }
+
+    .sliding-background {
+        height: 260px;
+        width: 2048px;
+    }
+
+    .sliding-backgrund-2 {
+        height: 160px;
+        width: 2048px;
+    }
+}
+
+.list-inline-item a {
+    color: black;
+    font-weight: bold;
+}
